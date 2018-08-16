@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Welcome to Wang Research Lab"
+title = "Welcome to Wang's Nucleic Acids Programming Lab"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -63,21 +63,20 @@ enableGitInfo = false
   font = "default"
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Xing Wang"
+  role = "Assistant Professor of Chemistry and Chemical Biology"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "Rensselaer Polytechnic Institute (RPI)", url = "http://rpi.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
-  telegram = ""
+  email = "wangx28@rpi.edu or wangx04@gmail.com"
+  address = "Biotech 2107, Rensselaer Polytechnic Institute, 110 8th Street, Troy, New York, 12180, USA"
+  phone = "+1-518-276-3829"
+  skype = "wangx04"
+  telegram = "+1-518-276-2851"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
@@ -272,17 +271,17 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications_selected"
+  url = "#publications"
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Group Members"
+  url = "#group members"
   weight = 3
 
 [[menu.main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Research Projects"
+  url = "#research projects"
   weight = 4
 
 [[menu.main]]
