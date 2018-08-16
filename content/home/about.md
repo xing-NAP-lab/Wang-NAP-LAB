@@ -17,7 +17,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Postdoc in RNA Biology"
+  course = "Postdoc Fellow in RNA Biology"
   institution = "Princeton University"
   year = 2013
 
