@@ -13,11 +13,11 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 60
 
-+++
-
 General Chemistry (Fall 2017, Spring 2017, Fall 2016, Spring 2016, Fall 2015, Spring 2015).
 
 Chemistry Seminar (Spring 2018, Fall 2017, Spring 2017, Fall 2016, Spring 2016, Fall 2015, Spring
 2015, Fall 2014).
 
 Bionanotechnology (Spring 2018, Spring 2017).
+
++++
