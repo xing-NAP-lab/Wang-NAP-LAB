@@ -73,7 +73,8 @@ enableGitInfo = true
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "wangx28@rpi.edu"
-  address = "Biotech 2107, Rensselaer Polytechnic Institute, 110 8th Street, Troy, New York, 12180, USA"
+  address = "Biotech 2107, Rensselaer Polytechnic Institute, 
+  110 8th Street, Troy, New York, 12180, USA"
   phone = "+1-518-276-3829"
   skype = "wangx04"
 
@@ -106,7 +107,7 @@ enableGitInfo = true
   map = 1
   latitude = "42.728713"
   longitude = "-73.678324"
-  zoom = 15
+  zoom = 16
 
   # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
