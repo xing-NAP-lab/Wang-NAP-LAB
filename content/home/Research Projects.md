@@ -1,11 +1,11 @@
 +++
-# Recent Posts widget.
-# This widget displays recent posts from `content/post/`.
-widget = "posts"
+# Research Projects widget.
+# This widget displays Research Projects from `content/Research Projects/`.
+widget = "Research Projects"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Recent Posts"
+title = "Research Projects"
 subtitle = ""
 
 # Order that this section will appear in.
