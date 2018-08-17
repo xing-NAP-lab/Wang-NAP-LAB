@@ -1,11 +1,11 @@
 +++
-# Recent and Upcoming Talks widget.
-widget = "talks"
+# Group Members widget.
+widget = "Group Members"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Recent & Upcoming Talks"
-subtitle = ""
+title = "Group Members"
+subtitle = "Group Members"
 
 # Order that this section will appear in.
 weight = 30
