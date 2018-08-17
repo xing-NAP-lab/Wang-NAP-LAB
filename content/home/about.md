@@ -23,7 +23,7 @@ weight = 5
   year = 2013
 
 [[education.courses]]
-  course = "Ph.D. in Biochemistry"
+  course = "Ph.D. in Chemistry/Biochemistry"
   institution = "New York University"
   year = 2009
 
