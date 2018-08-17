@@ -12,6 +12,7 @@ weight = 5
   interests = [
     "Structural DNA Nanotechnology",
     "RNA Mediated Genome Editing and Programming",
+    "New Biotechnology Development",
     "Biosensing"
   ]
 
@@ -27,7 +28,7 @@ weight = 5
   year = 2009
 
 [[education.courses]]
-  course = "BSc in Chemistry"
+  course = "B.S. in Chemistry"
   institution = "Lanzhou University"
   year = 2001
  
